@@ -3,4 +3,6 @@ include 'schemas'
 include 'loader'
 include 'max-temp'
 include 'max-temp-windowed'
+include 'temp-count'
+include 'temp-count-wdw'
 
