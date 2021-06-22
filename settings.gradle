@@ -1,0 +1,5 @@
+rootProject.name = 'streaming'
+include 'schemas'
+include 'loader'
+include 'max-temp'
+
