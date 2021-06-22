@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/loader" />
             <option value="$PROJECT_DIR$/max-temp" />
+            <option value="$PROJECT_DIR$/max-temp-windowed" />
             <option value="$PROJECT_DIR$/schemas" />
           </set>
         </option>
